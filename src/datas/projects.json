@@ -1,0 +1,44 @@
+{
+    "projects": [
+        {
+            "id":1,
+            "project": "Projeto seu e-commerce",
+            "img":"https://i.ibb.co/zHNSYtg/Captura-de-tela-2024-06-26-210053.png",
+            "data": "05/06/2024",
+            "desc": "Painel de gerenciamento de e-commerce.",
+            "extendedDesc": "Acabei de terminar meu novo projeto de gerenciamento de sua loja pessoal, crie produtos, configure sua loja e compartilhe-a com seus amigos",
+            "skillsUsed":["Next.js", "TypeScript", "CSS", "Firebase"],
+            "repo": "https://github.com/vhnb/polygon-maker-store"
+        },
+        {
+            "id":2,
+            "project": "Compartilhe seus links",
+            "img":"https://i.ibb.co/gVrVqxt/Captura-de-tela-2024-06-26-223150.png",
+            "data": "13/05/2024",
+            "desc": "Compartilhe seus links com seus amigos.",
+            "extendedDesc": "Confira meu mais novo projeto de compartilhamento de links, feito em Next.js e Typescript utilizando a ferramenta Firebase como banco de dados. Crie seu perfil já. Aliás, veja o meu: https://sharyshare.vercel.app/profile/vitinhoo",
+            "skillsUsed":["Next.js", "TypeScript", "CSS", "Firebase"],
+            "repo": ""
+        },
+        {
+            "id":3,
+            "project": "Dashboard hospitalar",
+            "img":"https://i.ibb.co/rFtwPGk/Captura-de-tela-2024-06-26-223451.png",
+            "data": "22/04/2024",
+            "desc": "Dashboard com primeiro contato em Node.js.",
+            "extendedDesc": "Com meu primeiro contato com Node.js, criei esta dashboard apenas para treino, o projeto é escolar e foi um desafio pessoal!",
+            "skillsUsed":["HTML", "Node.js", "CSS"],
+            "repo": "https://github.com/vhnb/project-school-hospital"
+        },
+        {
+            "id":4,
+            "project": "Tarefas +",
+            "img":"https://i.ibb.co/2MPyMmx/Captura-de-tela-2024-06-26-224038.png",
+            "data": "18/04/2024",
+            "desc": "To-do-list com funcionalidades exclusivas.",
+            "extendedDesc": "Primeiro projeto com Next.js, fiz uma to-do-list com sistemas a mais! Desafio foi passado pelo curso do Matheus Fraga.",
+            "skillsUsed":["Next.js", "TypeScript", "CSS", "Firebase"],
+            "repo": "https://github.com/vhnb/tarefas-plus"
+        }
+    ]
+}
