@@ -2,6 +2,16 @@
     "projects": [
         {
             "id":1,
+            "project": "Projeto Suporte Discord",
+            "img":"https://i.ibb.co/XpT322h/image.png",
+            "data": "08/08/2024",
+            "desc": "Aplicação Discord",
+            "extendedDesc": "Aplicação para auxiliar no suporte de seu servidor do Discord.",
+            "skillsUsed":["Python"],
+            "repo": "https://github.com/vhnb/Suporte-para-Discord"
+        },
+        {
+            "id":2,
             "project": "Projeto Estudande+",
             "img":"https://i.ibb.co/hmTHJ8r/Captura-de-tela-2024-07-31-205843.png",
             "data": "31/07/2024",
@@ -11,7 +21,7 @@
             "repo": "https://github.com/vhnb/EstudanteMais"
         },
         {
-            "id":2,
+            "id":3,
             "project": "Projeto seu e-commerce",
             "img":"https://i.ibb.co/zHNSYtg/Captura-de-tela-2024-06-26-210053.png",
             "data": "05/06/2024",
@@ -21,7 +31,7 @@
             "repo": "https://github.com/vhnb/polygon-maker-store"
         },
         {
-            "id":3,
+            "id":4,
             "project": "Compartilhe seus links",
             "img":"https://i.ibb.co/gVrVqxt/Captura-de-tela-2024-06-26-223150.png",
             "data": "13/05/2024",
@@ -31,7 +41,7 @@
             "repo": ""
         },
         {
-            "id":4,
+            "id":5,
             "project": "Dashboard hospitalar",
             "img":"https://i.ibb.co/rFtwPGk/Captura-de-tela-2024-06-26-223451.png",
             "data": "22/04/2024",
@@ -41,7 +51,7 @@
             "repo": "https://github.com/vhnb/project-school-hospital"
         },
         {
-            "id":5,
+            "id":6,
             "project": "Tarefas +",
             "img":"https://i.ibb.co/2MPyMmx/Captura-de-tela-2024-06-26-224038.png",
             "data": "18/04/2024",
